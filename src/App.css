@@ -1,24 +1,24 @@
 .App {
   text-align: center;
 }
-.todo-block{
+.todo-block {
   align-items: center;
 }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-.logo{
+.logo {
   color: orangered;
 }
-.list-item{
+.list-item {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
-ul{
+ul {
   width: 10%;
-    margin: auto;
+  margin: auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {
